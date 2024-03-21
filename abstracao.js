@@ -3,6 +3,8 @@
 //como se fosse uma interação com um carro na vida real, onde você não precisa se preocupar com os detalhes
 //nem saber como o carro funciona para poder dirigir
 
+console.log("Olá! Eu mexi nesse código");
+
 class Carro {
   constructor(marca, modelo) {
     this.marca = marca;
