@@ -2,6 +2,7 @@
 //e o usuário só precisará interagir com os métodos da maneira mais simples possível
 //como se fosse uma interação com um carro na vida real, onde você não precisa se preocupar com os detalhes
 //nem saber como o carro funciona para poder dirigir
+console.log("login");
 
 class Carro {
   constructor(marca, modelo) {

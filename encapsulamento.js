@@ -2,6 +2,7 @@
 
 //o usuário não deve poder acessar os dados da classe de qualquer jeito
 //é necessário criar métodos seguros e com restrições para que ele possa acessar os dados de forma correta
+console.log("login");
 
 class CaixaEletronico {
   //no js não existe suporte nativo para encapsulamento como no Java ou no TypeScript (que dá pra usar Private e Public)
